@@ -1,0 +1,13 @@
+body {
+    background: url(f.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.container {
+    width: 600px;
+}
+
+.h1 {
+    font-family: Verdana;
+    color: beige;
+}
